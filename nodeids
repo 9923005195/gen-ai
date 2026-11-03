@@ -1,0 +1,14 @@
+[
+  "backend/tests/test_domain_and_chat.py::test_all_38_districts_recognized",
+  "backend/tests/test_domain_and_chat.py::test_budget_calculator_arithmetic",
+  "backend/tests/test_domain_and_chat.py::test_dynamic_travel_assistant_answers",
+  "backend/tests/test_domain_and_chat.py::test_in_scope_queries",
+  "backend/tests/test_domain_and_chat.py::test_itinerary_generation_and_replanning",
+  "backend/tests/test_domain_and_chat.py::test_knowledge_base_38_districts_catalog",
+  "backend/tests/test_domain_and_chat.py::test_knowledge_base_destinations_integrity",
+  "backend/tests/test_domain_and_chat.py::test_language_detection",
+  "backend/tests/test_domain_and_chat.py::test_out_of_state_geographic_redirection",
+  "backend/tests/test_domain_and_chat.py::test_prompt_specific_example_questions",
+  "backend/tests/test_domain_and_chat.py::test_strictly_unrelated_out_of_scope_queries",
+  "backend/tests/test_domain_and_chat.py::test_transit_query_involving_outside_location_is_allowed"
+]
